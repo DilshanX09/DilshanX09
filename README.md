@@ -15,11 +15,23 @@ Top skills - Java • Java SE • Jakarta EE • Object-Oriented Programming (OO
 
 <p align="left">
   <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_enterprisesoftware-java-jakartaee-ugcPost-7425560337531289600-DlaU" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D5622AQH-2EJAOJeJuA/feedshare-shrink_800/B56ZwzjuuNGYAk-/0/1770391530567?e=1772064000&v=beta&t=9BZhYGmzDKcVN_Ac4FoFtDkBaQ5Te-KOhd9n8_QRF2Q" alt="LinkedIn Post" width="250" style="border-        radius: 10px; border: 1px solid black;" />
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQH-2EJAOJeJuA/feedshare-shrink_800/B56ZwzjuuNGYAk-/0/1770391530567?e=1772064000&v=beta&t=9BZhYGmzDKcVN_Ac4FoFtDkBaQ5Te-KOhd9n8_QRF2Q" alt="LinkedIn Post" width="200" style="border-        radius: 10px; border: 1px solid black;" />
   </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_apilearning101-postman-apitesting-share-7425396946246238208-4yDg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxbxl4BgGMHpRzeHOTlKzHOUe4u25Kb3OU" target="_blank">
-      <img src="https://media.licdn.com/dms/image/v2/D5622AQFvlLaugfRxKQ/feedshare-shrink_800/B56ZwxPLXvKYAg-/0/1770352588493?e=1772064000&v=beta&t=lbx5OaXIvTsmTw9pTvA3bE1bZN5fblKQPKtTjvYra_E" alt="LinkedIn Post" width="250" style="border-          radius: 10px; border: 1px solid black;" />
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQFvlLaugfRxKQ/feedshare-shrink_800/B56ZwxPLXvKYAg-/0/1770352588493?e=1772064000&v=beta&t=lbx5OaXIvTsmTw9pTvA3bE1bZN5fblKQPKtTjvYra_E" alt="LinkedIn Post" width="150" style="border-          radius: 10px; border: 1px solid black;" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_githubactions-devops-cicd-activity-7425939184521129984-Rrfj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxbxl4BgGMHpRzeHOTlKzHOUe4u25Kb3OU" target="_blank">
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQHAblGLVbySQA/feedshare-shrink_800/B56Zw48Vc_HUAg-/0/1770481866774?e=1772064000&v=beta&t=RPD82RVEK1O96wnlbDp9uOIKNdIVptDDoP1Qfxi_9yw" alt="LinkedIn Post" width="150" style="border-          radius: 10px; border: 1px solid black;" />
+    </a>
+   &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_githubactions-devops-cicd-activity-7425939184521129984-Rrfj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxbxl4BgGMHpRzeHOTlKzHOUe4u25Kb3OU" target="_blank">
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQFYBK9L7g3v-A/feedshare-shrink_1280/B56Zw48VeIHUAc-/0/1770481866853?e=1772064000&v=beta&t=j5aFFaRSMMdgbK0yO0OwNg_afREZUgiQUAo7QoKoDZE" alt="LinkedIn Post" width="150" style="border-          radius: 10px; border: 1px solid black;" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_githubactions-devops-cicd-activity-7425939184521129984-Rrfj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxbxl4BgGMHpRzeHOTlKzHOUe4u25Kb3OU" target="_blank">
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQFHttZ_fo405g/feedshare-shrink_2048_1536/B56Zw48VdpHUAk-/0/1770481866823?e=1772064000&v=beta&t=PqcpS48R73hasx7kF5aJLWxH-ATxtZuHBLxypE0DLIU" alt="LinkedIn Post" width="150" style="border-          radius: 10px; border: 1px solid black;" />
     </a>
   </p>
 </p>  
