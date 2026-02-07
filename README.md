@@ -15,7 +15,7 @@ Top skills - Java • Java SE • Jakarta EE • Object-Oriented Programming (OO
 
 <p align="left">
   <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_enterprisesoftware-java-jakartaee-ugcPost-7425560337531289600-DlaU" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D5622AQH-2EJAOJeJuA/feedshare-shrink_800/B56ZwzjuuNGYAk-/0/1770391530567?e=1772064000&v=beta&t=9BZhYGmzDKcVN_Ac4FoFtDkBaQ5Te-KOhd9n8_QRF2Q" alt="LinkedIn Post" width="200" style="border-        radius: 10px; border: 1px solid black;" />
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQH-2EJAOJeJuA/feedshare-shrink_800/B56ZwzjuuNGYAk-/0/1770391530567?e=1772064000&v=beta&t=9BZhYGmzDKcVN_Ac4FoFtDkBaQ5Te-KOhd9n8_QRF2Q" alt="LinkedIn Post" width="150" style="border-        radius: 10px; border: 1px solid black;" />
   </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_apilearning101-postman-apitesting-share-7425396946246238208-4yDg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxbxl4BgGMHpRzeHOTlKzHOUe4u25Kb3OU" target="_blank">
