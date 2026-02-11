@@ -14,6 +14,14 @@ Top skills - Java • Java SE • Jakarta EE • Object-Oriented Programming (OO
 **#Latest Linkedin Post**
 
 <p align="left">
+     &nbsp;&nbsp;
+    <a href="https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox?wt.mc_id=studentamb_506341" target="_blank">
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQHRy4SJKTMLug/feedshare-shrink_800/B56ZxLPRS5H0Ag-/0/1770788820341?e=1772668800&v=beta&t=0Rw4wgUMkJODKa9DAQJwrZ_vBEXpfgeHfIwDQm9eMzk" alt="LinkedIn Post" width="150" style="border-          radius: 10px; border: 1px solid black;" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_enterprisesoftware-java-jakartaee-ugcPost-7425560337531289600-DlaU" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQH-2EJAOJeJuA/feedshare-shrink_800/B56ZwzjuuNGYAk-/0/1770391530567?e=1772064000&v=beta&t=9BZhYGmzDKcVN_Ac4FoFtDkBaQ5Te-KOhd9n8_QRF2Q" alt="LinkedIn Post" width="150" style="border-        radius: 10px; border: 1px solid black;" />
+  </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_githubactions-devops-cicd-activity-7425939184521129984-Rrfj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxbxl4BgGMHpRzeHOTlKzHOUe4u25Kb3OU" target="_blank">
       <img src="https://media.licdn.com/dms/image/v2/D5622AQHAblGLVbySQA/feedshare-shrink_800/B56Zw48Vc_HUAg-/0/1770481866774?e=1772064000&v=beta&t=RPD82RVEK1O96wnlbDp9uOIKNdIVptDDoP1Qfxi_9yw" alt="LinkedIn Post" width="150" style="border-          radius: 10px; border: 1px solid black;" />
@@ -34,10 +42,6 @@ Top skills - Java • Java SE • Jakarta EE • Object-Oriented Programming (OO
     <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_docker-devops-containerization-activity-7426326396353859584-N-WB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxbxl4BgGMHpRzeHOTlKzHOUe4u25Kb3OU" target="_blank">
       <img src="https://media.licdn.com/dms/image/v2/D5622AQFSEAt7YvXwVg/feedshare-shrink_800/B56Zw.cgLJHUAg-/0/1770574185447?e=1772064000&v=beta&t=SDB0MoSSRa737XFz4USUrzyfOhxdaQiIJspDsfS-cUQ" alt="LinkedIn Post" width="150"           style="border-radius: 10px; border: 1px solid black;" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/posts/chamod-dilshan-a52172243_enterprisesoftware-java-jakartaee-ugcPost-7425560337531289600-DlaU" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D5622AQH-2EJAOJeJuA/feedshare-shrink_800/B56ZwzjuuNGYAk-/0/1770391530567?e=1772064000&v=beta&t=9BZhYGmzDKcVN_Ac4FoFtDkBaQ5Te-KOhd9n8_QRF2Q" alt="LinkedIn Post" width="150" style="border-        radius: 10px; border: 1px solid black;" />
-  </a>
   </p>
 </p>
 
