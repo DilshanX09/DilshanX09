@@ -15,6 +15,10 @@ Top skills - Java • Java SE • Jakarta EE • Object-Oriented Programming (OO
 
 <p align="left">
      &nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/en-us/free/students?wt.mc_id=studentamb_50634" target="_blank">
+      <img src="https://media.licdn.com/dms/image/v2/D5622AQH5sUm5w3pH4g/feedshare-shrink_800/B56ZxMASkyIAAk-/0/1770801670641?e=1772668800&v=beta&t=92DEJQXsxcEvxGvUyMlzMoYAZxEGA5B8WP3a_VoP3_Q" alt="LinkedIn Post" width="150" style="border-          radius: 10px; border: 1px solid black;" />
+    </a>
+     &nbsp;&nbsp;
     <a href="https://learn.microsoft.com/en-us/azure/architecture/guide/azure-sandbox/azure-sandbox?wt.mc_id=studentamb_506341" target="_blank">
       <img src="https://media.licdn.com/dms/image/v2/D5622AQHRy4SJKTMLug/feedshare-shrink_800/B56ZxLPRS5H0Ag-/0/1770788820341?e=1772668800&v=beta&t=0Rw4wgUMkJODKa9DAQJwrZ_vBEXpfgeHfIwDQm9eMzk" alt="LinkedIn Post" width="150" style="border-          radius: 10px; border: 1px solid black;" />
     </a>
