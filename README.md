@@ -1,7 +1,7 @@
+<img width="1584" height="396" alt="Linkedin Banners (6)" src="https://github.com/user-attachments/assets/f19eec81-617f-481e-8339-1679d2c87ee2" />
+
 **Hey I'm @Chamod Dilshan ( @DilshanX09 )** <br/>
 *Software Engineer @ Scalable Systems • Java • Java SE • Java EE • DevOps & Cloud Explorer*
-
-<img width="1584" height="396" alt="Linkedin Banners (4)" src="https://github.com/user-attachments/assets/445b1d1e-2992-4cb3-91a2-de00b7ef8012" />
 
 I’m **@Dilshan**, an Undergraduate Software Engineer specializing in full-stack development across web, mobile, and desktop platforms.
 
